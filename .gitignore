@@ -1,0 +1,5 @@
+.env
+venv
+audio_files
+transcriptions
+__pycache__
