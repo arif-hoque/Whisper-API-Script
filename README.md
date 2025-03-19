@@ -64,11 +64,6 @@ A Python script that batch processes audio files using OpenAI's Whisper API to g
 - MP3, WAV, M4A, MP4, WEBM, MPEG
 - Maximum file size: 25MB (OpenAI API limit)
 
-## Important Notes
-- 🔐 Keep your `.env` file private - never commit/share it
-- 💸 API usage costs apply - check [OpenAI Pricing](https://openai.com/pricing)
-- ⏳ Processing time depends on audio duration and API response
-
 ## File Structure
 ```
 .
