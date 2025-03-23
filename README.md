@@ -20,7 +20,7 @@ A Python script that batch processes audio files using OpenAI's Whisper API to g
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/audio-transcription.git
+   git clone https://github.com/arif-hoque/Whisper-API-Script.git
    ```
 
 2. **Create virtual environment (recommended)**
